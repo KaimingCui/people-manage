@@ -16,4 +16,6 @@
 
 default password of users is 123456. There is an admin account with username:admin password:123456
   
-  
+![login](https://github.com/KaimingCui/people-manage/blob/master/1.png)  
+
+![personal info](https://github.com/KaimingCui/people-manage/blob/master/2.png)  
