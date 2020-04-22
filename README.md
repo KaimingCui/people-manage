@@ -19,3 +19,9 @@ default password of users is 123456. There is an admin account with username:adm
 ![login](https://github.com/KaimingCui/people-manage/blob/master/1.png)  
 
 ![personal info](https://github.com/KaimingCui/people-manage/blob/master/2.png)  
+
+![people manage](https://github.com/KaimingCui/people-manage/blob/master/3.png)  
+
+![add people](https://github.com/KaimingCui/people-manage/blob/master/4.png) 
+
+![log](https://github.com/KaimingCui/people-manage/blob/master/5.png)
