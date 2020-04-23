@@ -11,6 +11,9 @@
   * Spring framework
   * Mybatis
   * mysql 8.0.19
+  
+## Structure
+Spring容器管理Dao层，service层，controllers。Web容器包含所有jsp页面以及一个DispacherServlet。DispacherServlet分析URL，利用反射机制调用spring容器中的各个控制器。
 
 ## what it looks like
 
